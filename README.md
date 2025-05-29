@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="100" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -54,5 +50,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deimox211100/Deimox211100/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Deimox211100/Deimox211100/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/Deimox211100/Deimox211100/output/snake.svg" alt="Snake animation" />
 
 ###
