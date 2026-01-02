@@ -1,46 +1,80 @@
-<h2 align="left">Hi 👋! My name is Gabriel and I'm a Data Nerd</h2>
+<!-- =========================
+     PROFILE README (Gabriel)
+========================== -->
 
-###
+<h1 align="center">Hey, I'm Gabriel 👋</h1>
+<p align="center">
+  Data Engineer • GCP • Airflow • dbt • SQL/Python • Docker/Linux
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deimox211100&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Deimox211100&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gpjaramillo/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white">
+  </a>
+  <img alt="Location" src="https://img.shields.io/badge/Based%20in-Colombia-2E7D32?logo=googlemaps&logoColor=white">
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo"  />
-</div>
+## 🚀 About me
 
-###
+I build **reliable, scalable data products** and pipelines with a focus on:
+- **Orchestration & automation** (Airflow / Cloud Composer)
+- **Analytics Engineering & quality** (dbt tests, documentation, models)
+- **Cloud data platforms** (BigQuery, GCS)
+- **Containers & Linux** (Docker, bash, environments, deployments)
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
-</div>
+I like turning messy inputs into **clean, governed datasets** that teams can trust.
 
-###
+---
+
+## 🧰 Tech Stack
+
+**Data & Cloud**
+- GCP: BigQuery, GCS, Cloud Composer
+- Modeling: dbt (core), SQL, dimensional modeling (SCD patterns)
+- Orchestration: Airflow
+
+**Engineering**
+- Python (ETL/ELT, APIs), Git/GitHub
+- Docker, Linux (Ubuntu Server), CI/CD basics
+- Spark (learning / lab), Kafka (learning / roadmap)
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-111?logo=python&logoColor=white">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-111?logo=databricks&logoColor=white">
+  <img alt="GCP" src="https://img.shields.io/badge/GCP-111?logo=googlecloud&logoColor=white">
+  <img alt="BigQuery" src="https://img.shields.io/badge/BigQuery-111?logo=googlebigquery&logoColor=white">
+  <img alt="Airflow" src="https://img.shields.io/badge/Airflow-111?logo=apacheairflow&logoColor=white">
+  <img alt="dbt" src="https://img.shields.io/badge/dbt-111?logo=dbt&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-111?logo=docker&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-111?logo=linux&logoColor=white">
+</p>
+
+---
+
+## 🧪 What I’m working on now
+
+- Building a **Databricks-like local lab**: Spark + Jupyter + MinIO (Kubernetes)
+- Improving **English for technical interviews**
+- Deepening **Data Architecture** (governance, SDPs, scalability patterns)
+
+---
+
+## 🏅 Highlights
+
+- Reduced manual validation time from **days to minutes** by standardizing pipelines and adding automated checks  
+- Improved reliability with **incremental strategies**, reducing duplication errors significantly  
+- Introduced **dbt testing** to improve trust in core datasets
+
+---
+
+## 🤝 Let’s connect
+
+- LinkedIn: `https://www.linkedin.com/in/gpjaramillo/`
+
+---
+
+<p align="center">
+  <sub>⭐ If you like what I build, consider starring a repo — it helps a lot!</sub>
+</p>
